@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6FA7D8;}
+	.st1{fill:none;}
+	.st2{font-family:'Organetto-Bold';}
+	.st3{font-size:62px;}
+	.st4{font-size:23.8687px;}
+	.st5{font-size:21.4671px;}
+	.st6{font-size:21.6185px;}
+	.st7{font-size:22.4011px;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="367.64,244.64 351.47,259.43 356.05,280.07 337.39,269.61 319.26,280.07 323.35,259.37 
+			307.19,244.58 328.76,242.85 337.73,223.43 346.14,242.89 		"/>
+		<polygon class="st0" points="536.24,244.64 520.07,259.43 524.65,280.07 505.99,269.61 487.86,280.07 491.95,259.37 
+			475.79,244.58 497.36,242.85 506.33,223.43 514.74,242.89 		"/>
+		<polygon class="st0" points="459.28,244.05 443.37,259.12 448.69,281.22 429.48,269.56 410.07,281.22 415.26,259.57 
+			398.83,245.07 420.36,242.95 428.98,223.38 437.74,242.68 		"/>
+	</g>
+	<path class="st0" d="M421.72,58.75c-106.9,0-193.55,86.66-193.55,193.55s86.66,193.55,193.55,193.55s193.55-86.66,193.55-193.55
+		S528.61,58.75,421.72,58.75z M420.88,419.3c-91.77,0-166.17-74.4-166.17-166.17s74.4-166.17,166.17-166.17
+		s166.17,74.4,166.17,166.17S512.66,419.3,420.88,419.3z"/>
+	<g>
+		<rect x="224.03" y="490.81" class="st1" width="135.9" height="43.56"/>
+		<text transform="matrix(1 0 0 1 224.0251 533.7142)" class="st0 st2 st3">MPS</text>
+		<text transform="matrix(0.932 0 0 1 363.2169 508.4309)" class="st0 st2 st4">MOUVEMENT </text>
+		<text transform="matrix(1.0191 0 0 1 363.2169 529.8079)" class="st0 st2 st5">PROSPERITE</text>
+		<text transform="matrix(1.0078 0 0 1 502.484 529.9359)" class="st0 st2 st6">SOLIDAIRE</text>
+		<text transform="matrix(0.9712 0 0 1 519.045 508.0989)" class="st0 st2 st7">POUR</text>
+		<text transform="matrix(0.9712 0 0 1 587.085 508.4309)" class="st0 st2 st7">LA</text>
+	</g>
+</g>
+</svg>
