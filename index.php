@@ -779,7 +779,7 @@
                 </div>
 
                 <div class="work_card mix web">
-                    <img src="assets/img/MPS-logo.svg" alt="" class="work_img">
+                    <img src="assets/img/MPS-logo.svg" alt="img" class="work_img">
                     <h3 class="work_title">Le MPS</h3>
                     <a href="https://mps.bj/" target="_blank" class="work_button">
                         Demo <i class='bx bxs-right-arrow-alt work_icon'></i>
@@ -787,17 +787,17 @@
 
                 </div>
 
-                <!--<div class="work_card mix mobile">
-                    <img src="assets/img/work3.jpg" alt="" class="work_img">
-                    <h3 class="work_title">GenFact</h3>
-                    <a href="#" class="work_button">
+                <div class="work_card mix web">
+                    <img src="assets/img/voyanceenfrance.svg" alt="img" class="work_img">
+                    <h3 class="work_title">VOYANCE EN FRANCE</h3>
+                    <a href="http://www.voyance-en-france.fr/" class="work_button">
                         Demo <i class='bx bxs-right-arrow-alt work_icon'></i>
                     </a>
 
-                </div>-->
+                </div>
 
                 <div class="work_card mix mobile">
-                    <img src="assets/img/agribenapp.png" alt="" class="work_img">
+                    <img src="assets/img/agribenapp.png" alt="img" class="work_img">
                     <h3 class="work_title">AgriBenApp</h3>
                     <a href="https://mega.nz/file/nDICCBaJ#0ZR1U85GrKJm0mAqqHjFlN7OAellFPUawCSYamDTtP8" target="_blank" class="work_button">
                         Demo <i class='bx bxs-right-arrow-alt work_icon'></i>
@@ -805,18 +805,18 @@
 
                 </div>
 
-                <!--<div class="work_card mix design">
-                    <img src="assets/img/work5.jpg" alt="" class="work_img">
-                    <h3 class="work_title">Web</h3>
-                    <a href="#" class="work_button">
+                <div class="work_card mix web">
+                    <img src="assets/img/japapdafrique.svg" alt="img" class="work_img">
+                    <h3 class="work_title">JAPAP D'AFRIQUE</h3>
+                    <a href="https://japapdafrique.fr/index.php?page=login" class="work_button">
                         Demo <i class='bx bxs-right-arrow-alt work_icon'></i>
                     </a>
 
-                </div>-->
+                </div>
             </div>
         </section>
 
-        <!--=============== TESTIMONIALS ===============-->
+        <!--=============== TESTIMONIALS ===============
         <section class="testimonial section">
             <span class="section__subtitle">Témoignage de mes clients</span>
             <h2 class="section__title">Témoignage</h2>
@@ -858,7 +858,7 @@
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
-        </section>
+        </section>-->
 
         <!--=============== CONTACT ===============-->
         <section class="contact section" id="contact">
